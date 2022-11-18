@@ -3,6 +3,7 @@
 #### By _{ FasnaSharaf, sreelakshmisatheesh, Aarsha-Padmarajan}_
 
 ## About the project
+
 A Web Application which serves the purpose of enhancing one's knowledge
 about the festival of Keralites,ONAM. The website is presented to the users in an easy-to-use and
 understandable manner.
@@ -13,8 +14,6 @@ create their own floral designs which helps them to make an interest in the fest
 pages as the name suggests will provide the user sufficient information about the respective topics in
 a brief manner.
 
-This was the project submitted by us for Onathon, a hackathon conducted by Tinkerhub CET.
-
 ## Technologies Used
 
 * _HTML_
@@ -23,4 +22,4 @@ This was the project submitted by us for Onathon, a hackathon conducted by Tinke
 ## Setup/Installation Requirements
 
 * Clone this repository and start live server.
-* Click on this link: https://helpful-crisp-8ecfc2.netlify.app
+* Click on this link: 
