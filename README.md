@@ -12,7 +12,7 @@ user can have access to different pages related to Onam - namely Onam rituals , 
 songs, Onam sadya and finally Pookkalam. The pookkalam page provides the user the feature to
 create their own floral designs which helps them to make an interest in the festival. The rest of the
 pages as the name suggests will provide the user sufficient information about the respective topics in
-a brief manner.
+a brief manner.<br><br>
 This was the project submitted by us for ONATHON, a hackathon conducted by Tinkerhub,CET.
 
 ## Technologies Used
@@ -23,4 +23,4 @@ This was the project submitted by us for ONATHON, a hackathon conducted by Tinke
 ## Setup/Installation Requirements
 
 * Clone this repository and start live server.
-* Click on this link: 
+* Click on this link: https://helpful-crisp-8ecfc2.netlify.app
