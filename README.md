@@ -13,6 +13,7 @@ songs, Onam sadya and finally Pookkalam. The pookkalam page provides the user th
 create their own floral designs which helps them to make an interest in the festival. The rest of the
 pages as the name suggests will provide the user sufficient information about the respective topics in
 a brief manner.
+This was the project submitted by us for ONATHON, a hackathon conducted by Tinkerhub,CET.
 
 ## Technologies Used
 
